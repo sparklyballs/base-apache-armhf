@@ -6,13 +6,17 @@ apk add --no-cache \
 	apache-mod-fcgid \
 	apache2-proxy \
 	php \
+	php-apache2 \
 	php-cli \
 	php-curl \
 	php-fpm \
 	php-gd \
+	php-json \
 	php-ldap \
 	php-mcrypt \
 	php-opcache \
+	php-openssl \
+	php-phar \
 	php-pdo_mysql \
 	php-pdo_pgsql \
 	php-pdo_sqlite \
