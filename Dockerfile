@@ -2,6 +2,7 @@ FROM sparklyballs/base-vanilla-armhf
 
 RUN \
 apk add --no-cache \
+	apache2 \
 	apache-mod-fcgid \
 	apache2-proxy \
 	php \
